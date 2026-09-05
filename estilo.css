@@ -8,3 +8,17 @@
   margin: 20px auto;
   font-family: monospace;
 }
+
+#RE23009{
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: 'Courier New', Courier, system-ui, sans-serif;
+  background: linear-gradient(135deg, #2d1b4e, #1c1033);
+  color: #fca5a5; 
+  border-radius: 16px;
+  border: 2px solid #ec4899;
+  box-shadow: 
+    0 10px 25px rgba(236, 72, 153, 0.15),
+    0 0 15px rgba(168, 85, 247, 0.2);
+}
